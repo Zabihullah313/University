@@ -33,6 +33,6 @@ This repository is created to:
 - Maintain a structured academic archive
 
 
-Maintained by: Zabihullah Mohammadi
-Field: Computer Engineering interested in Artificial Intelligence and Software Engineering 
-University : Amirkabir University of Technology
+-Maintained by: Zabihullah Mohammadi
+-Field: Computer Engineering interested in Artificial Intelligence and Software Engineering 
+-University : Amirkabir University of Technology
